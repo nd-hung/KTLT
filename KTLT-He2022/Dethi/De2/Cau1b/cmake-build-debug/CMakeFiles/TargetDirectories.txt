@@ -1,0 +1,3 @@
+C:/Users/Hung/OneDrive/Lectures/KTLT-Private/KTLT-He2022/Dethi/De2/Cau1b/cmake-build-debug/CMakeFiles/Cau1b.dir
+C:/Users/Hung/OneDrive/Lectures/KTLT-Private/KTLT-He2022/Dethi/De2/Cau1b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hung/OneDrive/Lectures/KTLT-Private/KTLT-He2022/Dethi/De2/Cau1b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

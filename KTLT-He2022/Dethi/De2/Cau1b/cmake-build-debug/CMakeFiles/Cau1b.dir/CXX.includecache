@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Hung/OneDrive/Lectures/KTLT-Private/KTLT-He2022/Dethi/De2/Cau1b/main.cpp
+iostream
+-
+
