@@ -17,6 +17,6 @@ int MaxOfFour(int a, int b, int c, int d) {
 }
 
 int main() {
-    int a = 9, b = 5, c = 1, d = 7;
+    int a = 9, b = 5, c = 85, d = 7;
     cout << "Max = " << MaxOfFour(a, b, c, d);
 }
