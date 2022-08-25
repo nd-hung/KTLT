@@ -44,10 +44,10 @@ void FindLongestDescendingSubArray(int a[], int n, int &max_start, int &max_end)
     // Xét lần lượt các phần tử từ đầu đến áp chót
     int i = 0;
     while (i < n - 1)
-        // Nếu a[i] > a[i+1] thì xét phần tử kế tiếp
+        // Nếu a[i] < a[i+1] thì xét phần tử kế tiếp
         if (a[i] < a[i + 1])
             i++;
-            // Ngược lại, nếu a[i] >= a[i+1] thì i là vị trí bắt đầu của dãy con giảm dần
+        // Ngược lại, nếu a[i] >= a[i+1] thì i là vị trí bắt đầu của dãy con giảm dần
         else {
             start = i;
             end = start;
