@@ -10,5 +10,5 @@ int main()
 
 /*
  * Kết quả khi chạy chương trình là 20.
- * Giải thích: Từ định nghĩa macro, Square(6+2) = Square(6+2*6+2) = 20.
+ * Giải thích: Từ định nghĩa macro, Square(6+2) = 6+2*6+2 = 20.
  */
